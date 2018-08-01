@@ -1,5 +1,10 @@
 package com.song.strategy;
 
+/**
+ * @Author zhangmingsong@9lead.com
+ * @Describe 策略模式
+ * @Date 2018/8/1/001
+ */
 public class Run {
 
     public static void main(String[] args) {
